@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 aiueo
+=======
+aiueo
+2行目を追加
+>>>>>>> 8fc2666d27df41c51a46e2ffda1b318f4d0a5a86
